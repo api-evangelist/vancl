@@ -1,7 +1,26 @@
 aid: vancl
-name: vancl
-description: vancl is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: VANCL
+description: >-
+  VANCL (凡客诚品) is a Chinese direct-to-consumer online apparel brand founded in
+  October 2007 that sells its own-brand men's wear, women's wear, shoes,
+  children's clothing, and home goods through vancl.com and official storefronts
+  on Tmall, JD.com, Douyin, and Youzan. Once China's leading independent B2C
+  fashion retailer, VANCL publishes no public API or developer platform today —
+  its legacy open-platform hosts (open.vancl.com, api.vancl.com) no longer
+  respond. Surfaced as a Qiming Venture Partners portfolio company in the API
+  Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.vancl.com/img/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/vancl/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +30,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- eCommerce
+- Apparel
+- Fashion
+- Retail
+- China
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +47,16 @@ maintainers:
 common:
 - type: Website
   url: https://vancl.com
+- type: Support
+  url: https://www.vancl.com/contact.html
+- type: WellKnown
+  url: well-known/vancl-well-known.yml
+- type: LLMsTxt
+  url: llms/vancl-llms.txt
+- type: DomainSecurity
+  url: security/vancl-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

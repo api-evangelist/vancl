@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://www.vancl.com
+host: https://www.vancl.com
+notes: >-
+  No well-known discovery surface published. Legacy open-platform hosts
+  open.vancl.com and api.vancl.com no longer respond (connection timeout);
+  developer.vancl.com presents a certificate that does not match the host.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 404

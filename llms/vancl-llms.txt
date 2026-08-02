@@ -1,0 +1,20 @@
+# VANCL (凡客诚品)
+
+> VANCL (凡客诚品) is a Chinese direct-to-consumer online apparel brand founded in October 2007, selling its own-brand men's wear, women's wear, shoes, children's clothing, and home goods through vancl.com and third-party storefronts on Tmall, JD.com, Douyin, and Youzan. VANCL publishes no public API, developer portal, or machine-readable discovery surface today; its former open-platform hosts (open.vancl.com, api.vancl.com) no longer respond.
+
+## Company
+
+- [Website](https://www.vancl.com): Corporate brochure site for the VANCL brand
+- [About](https://www.vancl.com/about.html): Company history and product lines
+- [Contact](https://www.vancl.com/contact.html): Support hotline 400-966-2007 and contact email
+
+## Storefronts
+
+- [Tmall store](https://fankefushi.tmall.com): Official VANCL apparel storefront on Tmall
+- [JD.com store](https://shop.m.jd.com/?shopId=143113): Official VANCL storefront on JD.com
+- [Douyin live](https://live.douyin.com/690986277228): Official VANCL Douyin live-commerce channel
+- [Youzan store](https://shop92626071.youzan.com): Official VANCL Youzan storefront
+
+## APIs
+
+- No public APIs are published. This profile is maintained by the API Evangelist network as an enrichment lead ([apis.yml](https://raw.githubusercontent.com/api-evangelist/vancl/refs/heads/main/apis.yml)).
