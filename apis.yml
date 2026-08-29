@@ -9,6 +9,17 @@ description: >-
   its legacy open-platform hosts (open.vancl.com, api.vancl.com) no longer
   respond. Surfaced as a Qiming Venture Partners portfolio company in the API
   Evangelist network.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
