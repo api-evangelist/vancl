@@ -33,6 +33,9 @@ accessModel:
   method: derived
 image: https://www.vancl.com/img/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/vancl/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Once China's leading independent B2C fashion retailer, VANCL publishes no public API or developer platform today — its legacy open-platform hosts (open.vancl.com, api.vancl.com) no longer respond."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
